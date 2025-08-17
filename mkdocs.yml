@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: docs
 nav:
   - 首页: index.md
   - 关于: about.md
